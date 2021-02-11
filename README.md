@@ -14,4 +14,6 @@ new_york_city (1).csv
 washington (1).csv
 
 ### Credits
+https://guides.github.com/features/mastering-markdown/
+https://wordpress.com/support/markdown-quick-reference/
 https://github.com/okaysidd/bikeshare.git
